@@ -1,0 +1,12 @@
+.cash-drawer-button {
+    color: #000000 !important;
+    font-weight: bold;
+}
+
+.cash-drawer-button i {
+    margin-right: 8px;
+}
+
+.cash-drawer-button:hover {
+    background-color: #f8f9fa;
+}

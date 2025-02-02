@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-name="OpenCashDrawer" owl="1">
+       <div class="control-button cash-drawer-button">
+           <i class="fa fa-money"></i>
+           <span>Ouvrir le tiroir</span>
+       </div>
+   </t>
+</templates>
