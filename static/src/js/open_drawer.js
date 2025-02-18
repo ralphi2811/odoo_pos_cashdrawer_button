@@ -26,7 +26,7 @@ odoo.define('pos_open_cashdrawer.OpenDrawer', function (require) {
         }
 
         async sendGetRequest() {
-            const url = 'https://localhost:22548/open-cash-drawer';
+            const url = 'http://localhost:22548/open-cash-drawer';
 
             try {
                 const requestOptions = {
